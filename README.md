@@ -1,3 +1,4 @@
 # Travello
-A full stack web application which is entirely made of Django and HTML, CSS. This projects was just to accomplish my Full stack web developing ability.
-The data base was derived from Postsql.
+A full stack web application which is entirely made of Django and HTML, CSS and Javascript files. This projects was a practice of my Full Stack ability to complete a entire website from the start till the backend using Postgres SQL. 
+
+This website can be used to book tickets to travel places with the help of a login using user ID and password.
